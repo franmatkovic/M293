@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+ol {
+  font-size: 18px;
+  list-style-type: decimal-leading-zero;
+}
+
+.ranked-song {
+  font-family: 'Open Sans Extra-bold', sans-serif;
+  font-size: 28px;
+}
