@@ -9,6 +9,47 @@
 </head>
 
 <body>
+    <h1>Burger Restaurant</h1>
+    <br>
+    <img src="https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Cheeseburger-3d7c922.jpg?quality=90&resize=556,505"
+        alt="Burger">
+    <h3>Zutaten: </h3>
+    <ul>
+        <li>1 Zwiebel</li>
+        <li>2 Knoblauchzehen</li>
+        <li>1 Bund Petersilie</li>
+        <li>50g Brot</li>
+        <li>1dl Milch</li>
+        <li>1 EL Butter</li>
+        <li>1 frisches Ei</li>
+        <li>800g Hackfleisch</li>
+        <li>1 TL Worcestershir-Sauce</li>
+        <li>1 TL Paprika</li>
+        <li>1.5 TL Salz</li>
+        <li>Wenig Pfeffer</li>
+    </ul>
+    <h3>So wirds gemacht:</h3>
+    <p>Zwiebel und Knoblauch schälen, fein hacken. Petersilie fein schneiden. Brotrinde wegschneiden, Brotinneres ca. 5
+        Min. in der Milch einweichen, Brot ausdrücken. Butter in einer Pfanne warm werden lassen. Zwiebel und Knoblauch
+        andämpfen. Petersilie und Brot kurz mitdämpfen, in einer Schüssel auskühlen.
+        Ei verklopfen, mit dem Fleisch, der Worcestershiresauce, Paprika, Salz und Pfeffer in die Schüssel geben, gut
+        mischen, zugedeckt mind. 1 Std. kühl stellen. Masse in 8 Portionen teilen, mit nassen Händen zu gleich dicken
+        Burgern formen, bis zum Grillieren kühl stellen.
+        Holzkohle-/Gas-/Elektrogrill: Burger mit geschlossenem Deckel über mittlerer Glut oder mittlerer Hitze (ca. 200
+        Grad) beidseitig je ca. 10 Min. grillieren, bis der austretende Fleischsaft klar ist.
+        Brötchen quer halbieren, mit den Schnittflächen nach unten ca. 1 Min. rösten und mit dem Burger belegen.
+    </p>
+    <h3>Quellenverzeichnis</h3>
+    <ol>
+        <li>
+            <a
+                href="https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Cheeseburger-3d7c922.jpg?quality=90&resize=556,505">Burger
+                Bild</a>
+        </li>
+        <li>
+            <a href="https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_AGXX970401_0130A-40-de">Rezept Quelle</a>
+        </li>
+    </ol>
 
 </body>
 
